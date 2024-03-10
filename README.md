@@ -1,2 +1,2 @@
 # ExercitiiAlgoritmi-AF
- Foarte multe rezolvari la Algoritmi Fundamentali
+Multe rezolvari la Algoritmi Fundamentali, cerintele sunt in documentele word
